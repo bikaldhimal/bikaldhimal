@@ -5,6 +5,7 @@
      Facebook : https://www.facebook.com/Simaldonge
      Instagram : https://www.instagram.com/bikal.official/
      Twitter : https://twitter.com/bikaldhimal2016
+     LinkedIn : https://www.linkedin.com/in/bikal-dhimal-705957154/
 
 <!---
 bikaldhimal/bikaldhimal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
