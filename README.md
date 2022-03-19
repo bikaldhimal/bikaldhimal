@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bikaldhimal
-- 💻 I’m interested in Web and Software Development
+- 💻 I’m interested in Website, WebApp, Native Mobile App, and Software Development
 - 🇳🇵 I’m currently studying BIT in IIC College Nepal.
 - 🛩 You can reach me:
      Facebook : https://www.facebook.com/Simaldonge
